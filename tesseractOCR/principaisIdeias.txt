@@ -1,0 +1,1 @@
+Ler os atriutos dos itens e repetir um processo automático auto programado pelo user.
